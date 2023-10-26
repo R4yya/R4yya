@@ -21,6 +21,8 @@ me.say_hi()
 
 ```
 
+## Stats
+
 ![R4yya's Stats](https://github-readme-stats.vercel.app/api?username=R4yya&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![R4yya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=R4yya&theme=dark&hide_border=true)
