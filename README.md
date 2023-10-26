@@ -21,7 +21,11 @@ me.say_hi()
 
 ```
 
-[![Rayya's top programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4yya)](https://github.com/anuraghazra/github-readme-stats)
+![R4yya's Stats](https://github-readme-stats.vercel.app/api?username=R4yya&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![R4yya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=R4yya&theme=dark&hide_border=true)
+
+![R4yya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4yya&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [![Rayya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R4yya&bg_color=0d1117&color=ffffff&line=26a641&point=0b5b01&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
