@@ -1,4 +1,4 @@
-### Hi there, I'm Rayya!
+# Hi there, I'm Rayya!
 
 ```python
 #!/usr/bin/python
@@ -21,4 +21,8 @@ me.say_hi()
 
 ```
 
+[![Rayya's top programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R4yya)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Rayya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R4yya&bg_color=0d1117&color=ffffff&line=26a641&point=0b5b01&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Rayya's GitHub metrics](https://metrics.lecoq.io/R4yya)
